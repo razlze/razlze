@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Cybersecurity Principles, Computer Architecture, Data Structures and Algorithms, and various Developmental Frameworks**
 
-- 👯 I'm currently contributing to this internship tracker application being developed by a non-profit organization called Bobatalks [https://github.com/BobaTalks/internship-tracker](https://github.com/BobaTalks/internship-tracker)
+- 👯 I'm currently working on an AI Interviewer tool you can use to practice your interviewing skills [https://github.com/razlze/interview-evaluator](https://github.com/razlze/interview-evaluator)
 
 - 👨‍💻 Look at some of my hackathon projects at [https://devpost.com/razisyed03](https://devpost.com/razisyed03)
 
