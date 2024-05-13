@@ -2,7 +2,7 @@
 <h3 align="center">Exploring the intersection between technology and security to make the world a safer place</h3>
 <br>
 
-- 🔭 I’m working at **TD Bank as a Cybersecurity Engineer, and studying Computer Engineering at the University of Waterloo**
+- 🔭 I’m working at **Wealthy Planet as a Frontend Developer, and studying Computer Engineering at the University of Waterloo**
 
 - 🌱 I’m currently learning **Cybersecurity Principles, Computer Architecture, Data Structures and Algorithms, and various Developmental Frameworks**
 
